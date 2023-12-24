@@ -64,5 +64,6 @@ Hãy miêu tả hình ảnh bằng tiếng anh và tiếng việt trong khoảng
 ```
 
 #### Quân Đội
-```((((( Ultra realistic photo of a beautiful Girl ))))) soldier or combatant, donning blonde hair styled in braids, with a few tangled strands framing her face. The focus of the photo is on her face, displaying a serious and determined expression, characterized by a sharp gaze radiating determination and resilience. She is attired in a military outfit with camouflage patterns, accompanied by a life jacket. A radio headset around her neck suggests communication with a group, while a shoulder strap hints at carrying weaponry or equipment. The background, dark and subdued, accentuates her presence and amplifies the strength of the image. The lighting accentuates facial contours and outfit details.
+```
+((((( Ultra realistic photo of a beautiful Girl ))))) soldier or combatant, donning blonde hair styled in braids, with a few tangled strands framing her face. The focus of the photo is on her face, displaying a serious and determined expression, characterized by a sharp gaze radiating determination and resilience. She is attired in a military outfit with camouflage patterns, accompanied by a life jacket. A radio headset around her neck suggests communication with a group, while a shoulder strap hints at carrying weaponry or equipment. The background, dark and subdued, accentuates her presence and amplifies the strength of the image. The lighting accentuates facial contours and outfit details.
 ```
